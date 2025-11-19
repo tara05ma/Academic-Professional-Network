@@ -11,7 +11,7 @@ from contextlib import contextmanager
 # IMPORTANT: Replace with your own MySQL connection details
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASSWORD = "tara123"  # <-- CHANGE THIS
+DB_PASSWORD = ""  # <-- CHANGE THIS
 DB_NAME = "apn_db"
 
 # Function to create a new database connection
